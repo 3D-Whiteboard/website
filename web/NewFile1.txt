@@ -1,0 +1,4 @@
+ <video alt="hero image" class="hero__image not-sidebar" controls>
+                <source src="3378126993.mp4" type="video/mp4">
+                Your browser does not support HTML video.
+            </video>
